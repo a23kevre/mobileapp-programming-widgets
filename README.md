@@ -10,4 +10,4 @@ Uppgiften gick ut på att skapa en layout med tre olika aktiviteter, det har ska
         android:layout_marginTop="20dp"
         android:src="@drawable/ic_launcher_background" />
 ```
-![](screen.png)
+![](bild.png)
